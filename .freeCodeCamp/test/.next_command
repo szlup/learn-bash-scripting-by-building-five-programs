@@ -159,3 +159,5 @@ echo $(( RANDOM % 75 + 1))
 ./bingo.sh
 ./bingo.sh
 git remote add fork https://github.com/szlup/learn-bash-scripting-by-building-five-programs.git
+git checkout -b patch-2
+git push fork
