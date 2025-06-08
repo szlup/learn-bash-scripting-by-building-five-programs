@@ -154,3 +154,4 @@ declare -p J
 __vsc_prompt_cmd_original
 declare -p RANDOM
 echo $(( RANDOM % 75 ))
+echo $(( RANDOM % 75 + 1))
