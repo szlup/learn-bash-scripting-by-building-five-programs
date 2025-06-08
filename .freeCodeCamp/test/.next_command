@@ -73,3 +73,4 @@ help
 help if
 help [[ expression ]]
 help test
+./countdown.sh 5
