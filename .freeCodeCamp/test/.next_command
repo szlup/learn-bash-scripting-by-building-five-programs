@@ -109,3 +109,7 @@ sleep 3
 ./countdown.sh 3
 ./countdown.sh 1
 help while
+I=4
+$I--
+I=$I-1
+echo $I
