@@ -113,3 +113,7 @@ I=4
 $I--
 I=$I-1
 echo $I
+__vsc_prompt_cmd_original
+help
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
